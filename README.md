@@ -1,2 +1,2 @@
 # Notes-lib
-My study notes
+My study notes.
