@@ -58,6 +58,13 @@ Linux嵌入式工程师：Linux下各种驱动程序的开发
 
 ![image-20220402095210004](https://raw.githubusercontent.com/Jian-wei-peng/typora-pic/main/typora202204020952295.png)
 
+![image-20220402102514172](https://raw.githubusercontent.com/Jian-wei-peng/typora-pic/main/typora202204021025236.png)
+![image-20220402102535072](https://raw.githubusercontent.com/Jian-wei-peng/typora-pic/main/typora202204021025195.png)
+![image-20220402102625225](https://raw.githubusercontent.com/Jian-wei-peng/typora-pic/main/typora202204021026326.png)
+![image-20220402102840786](https://raw.githubusercontent.com/Jian-wei-peng/typora-pic/main/typora202204021028893.png)
+![img](https://raw.githubusercontent.com/Jian-wei-peng/typora-pic/main/typora202204021028577.jpeg)
+![image-20220402102927974](https://raw.githubusercontent.com/Jian-wei-peng/typora-pic/main/typora202204021029017.png)
+
 -   **伟大的GNU计划**
 
 **人对应用软件进行操作（如播放器、浏览器等等），然后产生相关指令传输到shell层，shell层相当于一个解释器，将应用软件发送过来的指令解释给操作系统，最后操作系统再通过驱动程序对硬件进行操作**
